@@ -1,5 +1,5 @@
 const { Person } = require("./person");
 
-const person = new Person("Rodrigo");
+const person = new Person(" Santos");
 
-console.log(person.sayMyName());
+// require("./modules/path");
